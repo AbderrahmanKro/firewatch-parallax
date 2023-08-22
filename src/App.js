@@ -1,3 +1,4 @@
+import { Parallax, ParallaxLayer } from '@react-spring/parallax';
 import logo from './logo.svg';
 import './App.css';
 
